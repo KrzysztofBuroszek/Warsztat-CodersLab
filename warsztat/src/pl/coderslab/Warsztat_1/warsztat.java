@@ -1,9 +1,10 @@
-package pl.coderslab;
+package pl.coderslab.Warsztat_1;
 
+
+import pl.coderslab.Warsztat_1.ConsoleColors;
 
 import java.io.*;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
 
